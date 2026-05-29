@@ -38,7 +38,7 @@ I am also practicing Verilog on HDLBits.
 
 
 
-HDLBits Profile / Stats: paste-your-hdlbits-stats-link-here
+HDLBits Profile : https://hdlbits.01xz.net/wiki/Special:VlgStats/7225F1B3FC4FB454
 
 
 
